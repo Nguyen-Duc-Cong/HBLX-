@@ -1,8 +1,10 @@
-package com.midterm.hblx;
+package com.midterm.hblx.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.midterm.hblx.R;
 
 public class MainActivity extends AppCompatActivity {
 
