@@ -2,5 +2,14 @@ com/midterm/hblx/Model/Question.java
  com.midterm.hblx.Model.Question
 com/midterm/hblx/BuildConfig.java
  com.midterm.hblx.BuildConfig
+com/midterm/hblx/Model/Photo.java
+ com.midterm.hblx.Model.Photo
+com/midterm/hblx/ViewModel/photoViewPagerAdapter.java
+ com.midterm.hblx.ViewModel.photoViewPagerAdapter
+ com.midterm.hblx.ViewModel.photoViewPagerAdapter$PhotoViewHolder
 com/midterm/hblx/Activity/MainActivity.java
  com.midterm.hblx.Activity.MainActivity
+ com.midterm.hblx.Activity.MainActivity$1
+ com.midterm.hblx.Activity.MainActivity$2
+com/midterm/hblx/ViewModel/ZoomOutPageTransformer.java
+ com.midterm.hblx.ViewModel.ZoomOutPageTransformer
